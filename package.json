@@ -1,0 +1,14 @@
+{
+  "name": "breadboard-web",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "cocktailpeanuts@proton.me",
+  "license": "MIT",
+  "dependencies": {
+    "breadmachine": "^0.0.3"
+  }
+}
