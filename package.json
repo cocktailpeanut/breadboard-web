@@ -1,6 +1,6 @@
 {
   "name": "breadboard-web",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "cocktailpeanuts@proton.me",
   "license": "MIT",
   "dependencies": {
-    "breadmachine": "^0.1.0"
+    "breadmachine": "^0.1.1"
   }
 }
